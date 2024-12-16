@@ -15,15 +15,7 @@ I am an AI researcher with a strong background in working with real-world data a
   * Hosted by Prof. Chang Wook Jeong
   * Mar 2022 – Present, Seoul, Korea
 
-## Educations
 
-- **Seoul National University**
-    * M.S in Interdisciplinary Program in Bio-engineering (Advisor: Prof. C.W. Jeong)
-    * Mar 2022 - Feb 2024, Seoul, Korea
-
-- **Inha University**
-    * B.S in Mechanical Engineering and Software Engineering
-    * Mar 2015 - Feb 2022, Seoul, Korea
 
 
 ## Research Interests
@@ -39,7 +31,17 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 
 {% include_relative _includes/projects.md %}
 
+## Educations
 
+- **Seoul National University**
+    * M.S in Interdisciplinary Program in Bio-engineering (Advisor: Prof. C.W. Jeong)
+    * Mar 2022 - Feb 2024, Seoul, Korea
+
+- **Inha University**
+    * B.S in Mechanical Engineering and Software Engineering
+    * Mar 2015 - Feb 2022, Seoul, Korea
+
+    
 ## Publications
 1. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
 2. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
