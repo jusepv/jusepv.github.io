@@ -12,8 +12,18 @@ I am an AI researcher with a strong background in working with real-world data a
 ## Work Experiences
 
 - **Seoul National University Hospital (SNUH)**
-  * Hosted by Chang Wook Jeong
+  * Hosted by Prof. Chang Wook Jeong
   * Mar 2022 – Present, Seoul, Korea
+
+## Educations
+
+- **Seoul National University**
+    * M.S in Interdisciplinary Program in Bio-engineering (Advisor: Prof. C.W. Jeong)
+    * Mar 2022 - Feb 2024, Seoul, Korea
+
+- **Inha University**
+    * B.S in Mechanical Engineering and Software Engineering
+    * Mar 2015 - Feb 2022, Seoul, Korea
 
 
 ## Research Interests
