@@ -17,7 +17,7 @@ main:
     notes: 
       - "Developed and deployed a responsive dashboard website to visualize data collection and distribution
        processes, enhancing user accessibility and data transparency."
-      - "Tech stack: Client (streamlit), Server (AWS), Database (SQLite)"
+      - "Tech stack: Client (streamlit), Database (SQLite)"
     page: http://super-guc.snu.ac.kr:8501/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/super_board.png
