@@ -41,3 +41,9 @@ main:
     notes: 
       - "Developed a multi-modal survival prediction model for kidney cancer patients on clinical information and pathology images."
       - "The model integrates clinical and pathology data using self-attention mechanisms to enhance prognostic accuracy, suggesting the possibility of personalized treatment."
+
+  - title: "Clinician-Aligned Multi-Agent LLM system for Medical Decision Support (ongoing)"    
+    image: ./assets/img/agent.png
+    notes:
+      - "Utilized GPT-4 / Llama 3 model to create specialized agents for each branch and collaborate to support decision support"
+      - "Leverage instruction-following data to reflect clinician preferences."
