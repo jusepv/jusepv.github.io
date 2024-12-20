@@ -23,7 +23,7 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 
 - **Multi-modality:** Large language and vision model (LLAVA), CLIP
 - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
-- **AI agent:** Human interaction
+- **AI agent:** Agent with personal preferences
 
 ## News
 - **[Dec. 2024]** We launch SUPER data dashboard.
