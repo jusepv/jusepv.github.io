@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an AI researcher with a strong background in working with real-world data and developing
+I am a researcher engineer with a strong background in working with real-world data and developing
   models aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated
   to solving cutting-edge challenges.
 
@@ -19,11 +19,17 @@ I am an AI researcher with a strong background in working with real-world data a
 
 
 ## Research Interests
-My research focuses on artificial intelligence (AI), particularly in multi-modal and AI agent. I’m driven to leverage AI’s capabilities to tackle complex problems. My work explores three key areas:
+<!-- My research focuses on artificial intelligence (AI), particularly in multi-modal and AI agent. I’m driven to leverage AI’s capabilities to tackle complex problems. My work explores three key areas: -->
 
 - **Multi-modality:** Large language and vision model (LLAVA), CLIP
 - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
 - **AI agent:** Agent with personal preferences
+
+## Engineering Skill Sets
+- **Data Engineering:** Python, Airflow, MLFlow, Docker
+- **Cloud & DevOps:** AWS, CI/CD, Git
+- **Database:** SQL, MariaDB, SQLite
+<!-- - **Web Development:** Django, JavaScript -->
 
 ## News
 - **[Dec. 2024]** We launch SUPER data dashboard.
