@@ -19,16 +19,16 @@ I am a researcher engineer with a strong background in working with real-world d
 
 
 ## Research Interests
-<!-- My research focuses on artificial intelligence (AI), particularly in multi-modal and AI agent. I’m driven to leverage AI’s capabilities to tackle complex problems. My work explores three key areas: -->
+My research focuses on artificial intelligence (AI), particularly in multi-modal and AI agent. I’m driven to leverage AI’s capabilities to tackle complex problems. My work explores three key areas:
 
 - **Multi-modality:** Large language and vision model (LLAVA), CLIP
 - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
 - **AI agent:** Agent with personal preferences
 
 ## Engineering Skill Sets
-- **Data Engineering:** Python, Airflow, MLFlow, Docker
-- **Cloud & DevOps:** AWS, CI/CD, Git
-- **Database:** SQL, MariaDB, SQLite
+- **Data Engineering:** Python, Airflow, SQL
+- **Cloud & DevOps:** AWS, Docker, MLflow, CI/CD, Git
+<!-- - **Database:** SQL, MariaDB, SQLite -->
 <!-- - **Web Development:** Django, JavaScript -->
 
 ## News
