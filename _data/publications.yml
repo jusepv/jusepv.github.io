@@ -5,7 +5,7 @@ main:
       - "Utilized GPT-4 / Llama 3 model to create specialized agents for each branch and collaborate to support decision support"
       - "Leverage instruction-following data to reflect clinician preferences."
 
-  - title: "Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models"
+  - title: "Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models"
     # authors: <strong>J. Jin</strong>, C.W Jeong
     # conference_short: NeurIPS workshop
     # conference: Neural Information Processing Systems <strong>(NeurIPS) Workshop</strong>, 2024.
@@ -17,14 +17,13 @@ main:
       vision-language model based on LLaVA to specialize in surgical image understanding.
     image: ./assets/img/surgical_llava_instruction.png
 
-  - title: "Urology Data Construction and Dashboard website development"
+  - title: "Urology Data Mart Construction and Dashboard Website Development"
     # pdf: https://arxiv.org/abs/2410.09750
     notes: 
-      - "Designed and implemented a data construction pipeline to collect and preprocess urology data"
-      - "Developed and deployed a responsive dashboard website to visualize data collection and distribution
-       processes"
-      - "Skill set: SQL, Airflow, python, streamlit"
-    page: http://super-guc.snu.ac.kr:8501/
+      - "Implemented and optimized data mart pipeline to collect department of urology data."
+      - "Developed and deployed a dashboard website to visualize data collection and distribution."
+      - "Skill set: SQL, Airflow, Python, fastAPI, Streamlit, Dash"
+    # page: http://super-guc.snu.ac.kr:8501/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/super_board.png
 
@@ -38,13 +37,13 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     notes: 
-      Applied contrastive learning and adversarial training to bridge the domain gap between real and synthetic
-        environments, improving 6DoF pose estimation for robotic arm object grasping.
+      - "Collaborated with ETRI, developed vison module for robotic arm object grasping."
+      - "Applied contrastive learning and adversarial training to bridge the domain gap between real and synthetic environments, improving 6DoF pose estimation performance."
     image: ./assets/img/dapo.png
 
   - title: "Multi-modal survival scoring system of clear cell renal cell carcinoma"
     image: ./assets/img/rcc_survival.png
     notes: 
       - "Developed a multi-modal survival prediction model for kidney cancer patients on clinical information and pathology images."
-      - "The model integrates clinical and pathology data usingt text conditioning to enhance prognostic accuracy, suggesting the possibility of personalized treatment."
+      - "The model integrates clinical data and pathology images using text conditioning to enhance prognostic accuracy, suggesting the possibility of personalized treatment."
 
