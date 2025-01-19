@@ -4,10 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a researcher engineer with a strong background in working with real-world data and developing
-  models aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated
-  to solving cutting-edge challenges.
-
+I am a research engineer with a strong background in working with real-world data aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated to solving cutting-edge challenges.
 
 ## Work Experiences
 
