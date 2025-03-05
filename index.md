@@ -20,7 +20,7 @@ My research focuses on artificial intelligence (AI), particularly in multi-modal
 
 - **Multi-modality:** Large language and vision model (LLAVA), CLIP
 - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
-- **AI agent:** Mixture of experts (MOE), Proximal policy optimization (PPO)
+- **AI agent:** Multi-Agent system, Agent optimization with PPO
 
 ## Engineering Skill Sets
 - **Data Engineering:** Python, Airflow, SQL
