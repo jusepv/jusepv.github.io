@@ -1,10 +1,9 @@
 main:
   - title: "Self-Organizing Multi-Agent Optimization for Medical Vision-Language Models"    
-    image: ./assets/img/agent.png
+    image: ./assets/img/soma.png
     notes:
-      - "Developed a self-organizing multi-agent framework for LLaVA-Med, integrating mixture of experts."
-      - "Applied proximal policy optimization to dynamically optimize agent roles."
-
+      - "Developed a self-organizing multi-agent framework to enhance reasoning in medical vision-language models."
+      - "Applied proximal policy optimization to dynamically optimize multi-agent collaboration."
   - title: "Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models"
     # authors: <strong>J. Jin</strong>, C.W Jeong
     # conference_short: NeurIPS workshop
