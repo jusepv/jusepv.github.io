@@ -10,7 +10,7 @@ I am a research engineer with a strong background in working with real-world dat
 
 - **Seoul National University Hospital (SNUH)**
   * Hosted by Prof. Chang Wook Jeong
-  * Mar 2022 – Present, Seoul, Korea
+  * Mar 2024 – Present, Seoul, Korea
 
 
 

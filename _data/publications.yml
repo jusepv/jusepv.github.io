@@ -24,7 +24,7 @@ main:
       - "Skill set: SQL, Airflow, Python, fastAPI, Streamlit, Dash"
     # page: http://super-guc.snu.ac.kr:8501/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/super_board.png
+    image: ./assets/img/krocs_board.png
 
   - title: "Self-supervised Domain Adaptation for 6DoF Pose Estimations"
     # authors: <strong>J. Jin</strong>, E. Jeong, J. Cho, Y.G. Kim
