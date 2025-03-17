@@ -24,7 +24,7 @@ My research focuses on artificial intelligence (AI), particularly in multi-modal
 
 ## Engineering Skill Sets
 - **Data Engineering:** Python, Airflow, SQL
-- **Cloud & MLOps:** Docker, MLflow, fastAPI, CI/CD, Git
+- **Cloud & MLOps:** Docker, MLflow, CI/CD, Git
 <!-- - **Database:** SQL, MariaDB, SQLite -->
 <!-- - **Web Development:** Django, JavaScript -->
 
