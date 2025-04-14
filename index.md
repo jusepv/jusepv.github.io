@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a research engineer with a strong background in working with real-world data aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated to solving cutting-edge challenges.
+Driven by a diverse background in AI research and data engineering, I aim to contribute to innovation by transforming data into meaningful value through technology.
 
 ## Work Experiences
 
@@ -18,13 +18,13 @@ I am a research engineer with a strong background in working with real-world dat
 ## Research Interests
 My research focuses on artificial intelligence (AI), particularly in multi-modal and AI agent. I’m driven to leverage AI’s capabilities to tackle complex problems. My work explores three key areas:
 
-- **Multi-modality:** Large language and vision model (LLAVA), CLIP
+- **Personalized AI:** Ranking loss, Contrastive learning
 - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
 - **AI agent:** Multi-Agent system, Agent optimization
 
 ## Engineering Skill Sets
 - **Data Engineering:** Python, Airflow, SQL
-- **Cloud & MLOps:** Docker, MLflow, CI/CD, Git
+- **MLOps:** Docker, MLflow, CI/CD, Git
 <!-- - **Database:** SQL, MariaDB, SQLite -->
 <!-- - **Web Development:** Django, JavaScript -->
 

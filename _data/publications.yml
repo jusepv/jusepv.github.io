@@ -13,15 +13,17 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     notes: |
       Constructed instruction-following data for surgical VQA captions using GPT-3.5, and fine-tuned a
-      vision-language model based on LLaVA to specialize in surgical image understanding.
+      vision-language model based on LLaVA to specialize in surgical domain.
     image: ./assets/img/surgical_llava_instruction.png
 
   - title: "Urology Data Mart Construction and Dashboard Website Development"
     # pdf: https://arxiv.org/abs/2410.09750
     notes: 
-      - "Implemented and optimized data mart pipeline to collect department of urology data."
-      - "Developed and deployed a dashboard website to visualize data collection and distribution."
-      - "Skill set: SQL, Airflow, Python, fastAPI, Streamlit, Dash"
+      - "Design and implement APIs for data integration."
+      - "Build Airflow-based ETL pipelines to automate data ingestion and cleansing."
+      - "Apply data quality control (QC) and outlier detection logic."
+      - "Design SQL-based backup and restore scripts to ensure data reliability."
+      - "Develop dashboard MVPs to monitor key metrics"
     # page: http://super-guc.snu.ac.kr:8501/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/krocs_board.png
@@ -41,8 +43,9 @@ main:
     image: ./assets/img/dapo.png
 
   - title: "Multi-modal survival scoring system of clear cell renal cell carcinoma"
-    image: ./assets/img/rcc_survival.png
+    image: ./assets/img/ranking.png
     notes: 
-      - "Developed a multi-modal survival prediction model for kidney cancer patients on clinical information and pathology images."
-      - "The model integrates clinical data and pathology images using text conditioning to enhance prognostic accuracy, suggesting the possibility of personalized treatment."
+      - "Researching prognostic models for personalized care.."
+      - "Improve patient risk ranking prediction performance with ExtractionMargin Ranking Loss."
+      - "Apply Contrastive Loss between clinical information and image features to improve detail representation."
 
