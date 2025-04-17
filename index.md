@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-Driven by a diverse background in AI research and data engineering, I aim to contribute to innovation by transforming data into meaningful value through technology.
-
+I’m Juseong Jin, an AI Research Engineer. With a broad background in AI research and data engineering, I’m passionate about applying technology to solve real-world problems. I am driven by the goal of creating innovative value through data and am eager to contribute to innovation.
 ## Work Experiences
 
 - **Seoul National University Hospital (SNUH)**
@@ -14,19 +13,16 @@ Driven by a diverse background in AI research and data engineering, I aim to con
 
 
 
-
 ## Research Interests
-My research focuses on artificial intelligence (AI), particularly in multi-modal and AI agent. I’m driven to leverage AI’s capabilities to tackle complex problems. My work explores three key areas:
 
-- **Personalized AI:** Ranking loss, Contrastive learning
+- **Personalized AI:** Ranking objective, Contrastive learning
 - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
 - **AI agent:** Multi-Agent system, Agent optimization
 
 ## Engineering Skill Sets
 - **Data Engineering:** Python, Airflow, SQL
-- **MLOps:** Docker, MLflow, CI/CD, Git
-<!-- - **Database:** SQL, MariaDB, SQLite -->
-<!-- - **Web Development:** Django, JavaScript -->
+- **MLOps:** Docker, MLflow, FastAPI, GCP, Github actions
+
 
 ## News
 - **[Dec. 2024]** We launch SUPER data dashboard.
@@ -46,18 +42,18 @@ My research focuses on artificial intelligence (AI), particularly in multi-modal
 
     
 ## Publications
-1. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
-2. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
-3. **J. Jin**, J.H. Han, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Prediction Model Using Clinical Information and Pathology Images in Renal Cell Carcinoma Patients*", 2024, Korean Society of Medical Informatics (KOSMI)
-4. **J. Jin**, E. Jeong, J. Cho, J.H. Park, Y.G. Kim. "*DAPO: Self-supervised Domain Adaptation for 6DoF Pose Estimation*," NeurIPS 2023 SSLTheoryPractice
-5. **J. Jin**, Y.J. Kim, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning Models and Index Predicting Postoperative Desaturation using Spirometry Signal*," 2023, Korean Society of Medical Informatics (KOSMI). ***Best Oral Presentation**
-6. Y. Shin, Y.J. Kim, **J. Jin**, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Machine Learning Model for Predicting Immediate Postoperative Desaturation Using Spirometyr Signal Data*," 2023, Scientific Reports
-7. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
+1. J. Kim, A. Jeong, <strong>J. Jin</strong>, S. Lee, D.Y. Kim, S. Kim. "*Temporal Relationship Between Internet Search Volumes for Diarrhea Synonyms Using ChatGPT and Emergency Department Visits for Diarrhea-Related Symptoms in South Korea*", 2025, Journal of Medical Internet Research (JMIR)
+2. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
+3. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
+4. **J. Jin**, J.H. Han, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Prediction Model Using Clinical Information and Pathology Images in Renal Cell Carcinoma Patients*", 2024, Korean Society of Medical Informatics (KOSMI)
+5. **J. Jin**, E. Jeong, J. Cho, J.H. Park, Y.G. Kim. "*DAPO: Self-supervised Domain Adaptation for 6DoF Pose Estimation*," NeurIPS 2023 SSLTheoryPractice
+6. **J. Jin**, Y.J. Kim, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning Models and Index Predicting Postoperative Desaturation using Spirometry Signal*," 2023, Korean Society of Medical Informatics (KOSMI). ***Best Oral Presentation**
+7. Y. Shin, Y.J. Kim, **J. Jin**, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Machine Learning Model for Predicting Immediate Postoperative Desaturation Using Spirometyr Signal Data*," 2023, Scientific Reports
+8. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
 
 ## Under Review Papers
 1. **J. Jin**, J.H. Han*, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Scoring Model of Clear Cell Renal Cell Carcinoma*"
-2. J. Kim, A. Jeong, **J. Jin**, H.W. Woo, S. Lee, D. Yoon, G. Lee, S. Kim, "*Temporal correlation between Internet search volumes for diarrhea and its synonym using Chat Generative Pre-Trained Transformer and emergency department.*"
-3. Y.J. Kim*, **J. Jin**, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning-Based Postoperative Desaturation Prediction Using Spirometry Image Data.*"
+2. Y.J. Kim*, **J. Jin**, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning-Based Postoperative Desaturation Prediction Using Spirometry Image Data.*"
 
 
 
