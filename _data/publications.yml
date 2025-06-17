@@ -1,6 +1,6 @@
 main:
-  - title: "Self-Organizing Multi-Agent Optimization for Medical Vision-Language Models"    
-    image: ./assets/img/soma.png
+  - title: "MedARC: Medical Agents Reasoning via Reinforcement Collaboration"    
+    image: ./assets/img/arc3.png
     notes:
       - "Developed a self-organizing multi-agent framework to enhance reasoning in medical vision-language models."
       - "Applied proximal policy optimization to dynamically optimize multi-agent collaboration."

@@ -15,8 +15,8 @@ I’m Juseong Jin, an AI Research Engineer. With a broad background in AI resear
 
 ## Research Interests
 
-- **Personalized AI:** Ranking objective, Contrastive learning
-- **Cost-effective Learning:** Self-superivsed learning, Domain adaptation
+- **Representative Learning:** Contrastive learning, Ranking objective
+<!-- - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation -->
 - **AI agent:** Multi-Agent system, Agent optimization
 
 ## Engineering Skill Sets
@@ -33,7 +33,7 @@ I’m Juseong Jin, an AI Research Engineer. With a broad background in AI resear
 ## Educations
 
 - **Seoul National University**
-    * M.S in Interdisciplinary Program in Bio-engineering (Advisor: Prof. C.W. Jeong)
+    * M.S in Bio-engineering (Advisor: Prof. C.W. Jeong)
     * Mar 2022 - Feb 2024, Seoul, Korea
 
 - **Inha University**
@@ -42,14 +42,15 @@ I’m Juseong Jin, an AI Research Engineer. With a broad background in AI resear
 
     
 ## Publications
-1. J. Kim, A. Jeong, <strong>J. Jin</strong>, S. Lee, D.Y. Kim, S. Kim. "*Temporal Relationship Between Internet Search Volumes for Diarrhea Synonyms Using ChatGPT and Emergency Department Visits for Diarrhea-Related Symptoms in South Korea*", 2025, Journal of Medical Internet Research (JMIR)
-2. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
-3. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
-4. **J. Jin**, J.H. Han, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Prediction Model Using Clinical Information and Pathology Images in Renal Cell Carcinoma Patients*", 2024, Korean Society of Medical Informatics (KOSMI)
-5. **J. Jin**, E. Jeong, J. Cho, J.H. Park, Y.G. Kim. "*DAPO: Self-supervised Domain Adaptation for 6DoF Pose Estimation*," NeurIPS 2023 SSLTheoryPractice
-6. **J. Jin**, Y.J. Kim, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning Models and Index Predicting Postoperative Desaturation using Spirometry Signal*," 2023, Korean Society of Medical Informatics (KOSMI). ***Best Oral Presentation**
-7. Y. Shin, Y.J. Kim, **J. Jin**, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Machine Learning Model for Predicting Immediate Postoperative Desaturation Using Spirometyr Signal Data*," 2023, Scientific Reports
-8. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
+1. **J. Jin**, C.W. Jeong. "*MedARC: A Reinforcement-Learned Multi-Agent Collaboration System for Expert-Level Medical Visual Reasoning*", MICCAI 2025 CLINICCAI **Oral Presentation** 
+2. J. Kim, A. Jeong, <strong>J. Jin</strong>, S. Lee, D.Y. Kim, S. Kim. "*Temporal Relationship Between Internet Search Volumes for Diarrhea Synonyms Using ChatGPT and Emergency Department Visits for Diarrhea-Related Symptoms in South Korea*", 2025, Journal of Medical Internet Research (JMIR)
+3. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
+4. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
+5. **J. Jin**, J.H. Han, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Prediction Model Using Clinical Information and Pathology Images in Renal Cell Carcinoma Patients*", 2024, Korean Society of Medical Informatics (KOSMI)
+6. **J. Jin**, E. Jeong, J. Cho, J.H. Park, Y.G. Kim. "*DAPO: Self-supervised Domain Adaptation for 6DoF Pose Estimation*," NeurIPS 2023 SSLTheoryPractice
+7. **J. Jin**, Y.J. Kim, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning Models and Index Predicting Postoperative Desaturation using Spirometry Signal*," 2023, Korean Society of Medical Informatics (KOSMI). ***Best Oral Presentation**
+8. Y. Shin, Y.J. Kim, **J. Jin**, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Machine Learning Model for Predicting Immediate Postoperative Desaturation Using Spirometyr Signal Data*," 2023, Scientific Reports
+9. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
 
 ## Under Review Papers
 1. **J. Jin**, J.H. Han*, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Scoring Model of Clear Cell Renal Cell Carcinoma*"
