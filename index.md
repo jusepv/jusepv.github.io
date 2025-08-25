@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I’m Juseong Jin, an AI Research Engineer. With a broad background in AI research and data engineering, I’m passionate about applying technology to solve real-world problems. I am driven by the goal of creating innovative value through data and am eager to contribute to innovation.
+I’m Juseong Jin, an AI Research Engineer. I discover opportunities hidden in data and connect the dots through technology. By understanding real-world needs beyond the data and applying technical imagination, I strive to design solutions that deliver tangible value. I am passionate about turning ideas into impactful products.
+
 ## Work Experiences
 
 - **Seoul National University Hospital (SNUH)**
@@ -15,16 +16,18 @@ I’m Juseong Jin, an AI Research Engineer. With a broad background in AI resear
 
 ## Research Interests
 
-- **Representative Learning:** Contrastive learning, Ranking objective
+- **Multi-modal:** Vision-Language model, Contrastive learning
 <!-- - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation -->
-- **AI agent:** Multi-Agent system, Agent optimization
+- **AI agent:** Multi-Agent system, RAG for long term memory
 
 ## Engineering Skill Sets
+- **AI Tools:** Pytorch, Langchain, LM studio
 - **Data Engineering:** Python, Airflow, SQL
-- **MLOps:** Docker, MLflow, FastAPI, GCP, Github actions
-
+- **MLOps:** Docker, MLflow, FastAPI, Google cloud
 
 ## News
+- **[July. 2025]** Our two studies have been accepted for oral presentation at MICCAI CLINICAA 2025.
+- **[May. 2025]** We launce KUOS data dashboard.
 - **[Dec. 2024]** We launch SUPER data dashboard.
 - **[Nov. 2024]** Our paper about surgical-llava is accepted to NeurIPS AIM-FM 2024.
 
