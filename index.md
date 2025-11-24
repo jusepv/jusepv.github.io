@@ -21,9 +21,9 @@ I’m Juseong Jin, an AI Research Engineer. I discover opportunities hidden in d
 - **AI agent:** Multi-Agent system, RAG for long term memory
 
 ## Engineering Skill Sets
-- **AI Tools:** Pytorch, Langchain, LM studio
-- **Data Engineering:** Python, Airflow, SQL
-- **MLOps:** Docker, MLflow, FastAPI, Google cloud
+- **AI Tools:** Pytorch, Langchain
+- **Data Engineering:** Python, SQL, Kafka, Airflow
+- **MLOps:** Docker, MLflow, FastAPI
 
 ## News
 - **[July. 2025]** Our two studies have been accepted for oral presentation at MICCAI CLINICAA 2025.
