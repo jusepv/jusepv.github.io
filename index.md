@@ -44,7 +44,7 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 
 - **Inha University**
     * B.S in Mechanical Engineering and Software Engineering
-    * Mar.2015 - Feb.2022, Seoul, Korea
+    * Mar.2015 - Feb.2022, Incheon, Korea
 
     
 ## Publications
