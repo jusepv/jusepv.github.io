@@ -8,8 +8,8 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 ## Work Experiences
 
 - **Hanwha Systems/ICT**
- * Jan.2026 - Present, Seoul, Korea
- * Development of a group transcription AI agent platform.
+  * Jan.2026 - Present, Seoul, Korea
+  * Development of a group transcription AI agent platform.
 
 - **Seoul National University Hospital (SNUH)**
   <!-- * Hosted by Prof. Chang Wook Jeong -->
