@@ -3,30 +3,33 @@ layout: homepage
 ---
 
 ## About Me
-
-I’m Juseong Jin, an AI Research Engineer. I discover opportunities hidden in data and connect the dots through technology. By understanding real-world needs beyond the data and applying technical imagination, I strive to design solutions that deliver tangible value. I am passionate about turning ideas into impactful products.
+I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated to solving cutting-edge challenges.
 
 ## Work Experiences
 
-- **Seoul National University Hospital (SNUH)**
-  * Hosted by Prof. Chang Wook Jeong
-  * Mar 2024 – Present, Seoul, Korea
+- **Hanwha Systems/ICT**
+ * Jan.2026 - Present, Seoul, Korea
+ * Development of a group transcription AI agent platform.
 
+- **Seoul National University Hospital (SNUH)**
+  <!-- * Hosted by Prof. Chang Wook Jeong -->
+  * Apr.2024 – Nov.2025, Seoul, Korea
+  * Research on medical AI models and development of data analysis platforms.
 
 
 ## Research Interests
-
-- **Multi-modal:** Vision-Language model, Contrastive learning
+- **AI agent:** Multi-Agent system, Memory optimization for AI agent
+<!-- - **Multi-modal:** Vision-Language model, Contrastive learning -->
 <!-- - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation -->
-- **AI agent:** Multi-Agent system, RAG for long term memory
+
 
 ## Engineering Skill Sets
 - **AI Tools:** Pytorch, Langchain
 - **Data Engineering:** Python, SQL, Kafka, Airflow
-- **MLOps:** Docker, MLflow, FastAPI
+- **MLOps:** FastAPI, Docker, k8s 
 
 ## News
-- **[July. 2025]** Our two studies have been accepted for oral presentation at MICCAI CLINICAA 2025.
+- **[July. 2025]** Our two studies have been accepted for oral presentation at MICCAI  2025.
 - **[May. 2025]** We launce KUOS data dashboard.
 - **[Dec. 2024]** We launch SUPER data dashboard.
 - **[Nov. 2024]** Our paper about surgical-llava is accepted to NeurIPS AIM-FM 2024.
@@ -37,11 +40,11 @@ I’m Juseong Jin, an AI Research Engineer. I discover opportunities hidden in d
 
 - **Seoul National University**
     * M.S in Bio-engineering (Advisor: Prof. C.W. Jeong)
-    * Mar 2022 - Feb 2024, Seoul, Korea
+    * Mar.2022 - Feb.2024, Seoul, Korea
 
 - **Inha University**
     * B.S in Mechanical Engineering and Software Engineering
-    * Mar 2015 - Feb 2022, Seoul, Korea
+    * Mar.2015 - Feb.2022, Seoul, Korea
 
     
 ## Publications
