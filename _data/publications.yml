@@ -16,17 +16,17 @@ main:
       vision-language model based on LLaVA to specialize in surgical domain.
     image: ./assets/img/surgical_llava_instruction.png
 
-  - title: "Urology Data Mart Construction and Dashboard Website Development"
-    # pdf: https://arxiv.org/abs/2410.09750
-    notes: 
-      - "Design and implement APIs for data integration."
-      - "Build Airflow-based ETL pipelines to automate data ingestion and cleansing."
-      - "Apply data quality control (QC) and outlier detection logic."
-      - "Design SQL-based backup and restore scripts to ensure data reliability."
-      - "Develop dashboard MVPs to monitor key metrics"
-    # page: http://super-guc.snu.ac.kr:8501/
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/krocs_board.png
+  # - title: "Urology Data Mart Construction and Dashboard Website Development"
+  #   # pdf: https://arxiv.org/abs/2410.09750
+  #   notes: 
+  #     - "Design and implement APIs for data integration."
+  #     - "Build Airflow-based ETL pipelines to automate data ingestion and cleansing."
+  #     - "Apply data quality control (QC) and outlier detection logic."
+  #     - "Design SQL-based backup and restore scripts to ensure data reliability."
+  #     - "Develop dashboard MVPs to monitor key metrics"
+  #   # page: http://super-guc.snu.ac.kr:8501/
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/krocs_board.png
 
   - title: "Self-supervised Domain Adaptation for 6DoF Pose Estimations"
     # authors: <strong>J. Jin</strong>, E. Jeong, J. Cho, Y.G. Kim
@@ -35,7 +35,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10601657
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     notes: 
       - "Collaborated with ETRI, developed vison module for robotic arm object grasping."
@@ -43,9 +42,8 @@ main:
     image: ./assets/img/dapo.png
 
   - title: "Multi-modal survival scoring system of clear cell renal cell carcinoma"
-    image: ./assets/img/ranking.png
+    image: ./assets/img/deeprcs.png
     notes: 
-      - "Researching prognostic models for personalized care.."
-      - "Improve patient risk ranking prediction performance with ExtractionMargin Ranking Loss."
-      - "Apply Contrastive Loss between clinical information and image features to improve detail representation."
-
+notes: 
+      - "Develop a multimodal survival prediction model integrating clinical variables and histopathology features via cross-attention."
+      - "Outperform Cox and other machine-learning models while enabling refined risk stratification beyond KEYNOTE-564 criteria."

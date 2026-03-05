@@ -9,30 +9,31 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 
 - **Hanwha Systems/ICT**
   * Jan.2026 - Present, Seoul, Korea
-  * Development of a group transcription AI agent platform.
+  * Develop AI Agent solution based on Graph RAG.
 
 - **Seoul National University Hospital (SNUH)**
   <!-- * Hosted by Prof. Chang Wook Jeong -->
   * Apr.2024 – Nov.2025, Seoul, Korea
-  * Research on medical AI models and development of data analysis platforms.
+  * Research on AI Agent system.
 
 
 ## Research Interests
-- **AI agent:** Multi-Agent system, Memory optimization for AI agent
+- **Agent Systems:** Multi-Agent Systems, Memory-based Agents
+- **Knowledge-grounded Agents:** Ontology-based Knowledge Graphs, GraphRAG-based Agents
 <!-- - **Multi-modal:** Vision-Language model, Contrastive learning -->
 <!-- - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation -->
 
 
 ## Engineering Skill Sets
-- **AI Tools:** Pytorch, Langchain
-- **Data Engineering:** Python, SQL, Kafka, Airflow
-- **MLOps:** FastAPI, Docker, k8s 
+- **AI Frameworks:** PyTorch, LangGraph
+- **Backend Development:** Python, FastAPI, Docker, k8s
+- **Data Systems:** SQL, Kafka, Neo4j
 
-## News
+<!-- ## News
 - **[July. 2025]** Our two studies have been accepted for oral presentation at MICCAI  2025.
 - **[May. 2025]** We launce KUOS data dashboard.
 - **[Dec. 2024]** We launch SUPER data dashboard.
-- **[Nov. 2024]** Our paper about surgical-llava is accepted to NeurIPS AIM-FM 2024.
+- **[Nov. 2024]** Our paper about surgical-llava is accepted to NeurIPS AIM-FM 2024. -->
 
 {% include_relative _includes/projects.md %}
 
@@ -40,10 +41,11 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 
 - **Seoul National University**
     * M.S in Bio-engineering (Advisor: Prof. C.W. Jeong)
+    - Healthcare AI (Vision-Language Model, Multi-modal AI)
     * Mar.2022 - Feb.2024, Seoul, Korea
 
 - **Inha University**
-    * B.S in Mechanical Engineering and Software Engineering
+    * B.S in Software Engineering and Mechanical Engineering
     * Mar.2015 - Feb.2022, Incheon, Korea
 
     
@@ -59,7 +61,7 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 9. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
 
 ## Under Review Papers
-1. **J. Jin**, J.H. Han*, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Scoring Model of Clear Cell Renal Cell Carcinoma*"
+1. **J. Jin**, J.H. Han*, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Multimodal  AI via Cross Attention for Survival Prediction in Clear Cell Renal Cell Carcinoma*"
 2. Y.J. Kim*, **J. Jin**, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning-Based Postoperative Desaturation Prediction Using Spirometry Image Data.*"
 
 
