@@ -44,6 +44,5 @@ main:
   - title: "Multi-modal survival scoring system of clear cell renal cell carcinoma"
     image: ./assets/img/deeprcs.png
     notes: 
-notes: 
       - "Develop a multimodal survival prediction model integrating clinical variables and histopathology features via cross-attention."
       - "Outperform Cox and other machine-learning models while enabling refined risk stratification beyond KEYNOTE-564 criteria."
