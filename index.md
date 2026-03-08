@@ -27,7 +27,7 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 ## Engineering Skill Sets
 - **AI/ML:** PyTorch, LangGraph
 - **Backend:** Python, FastAPI
-- **Data Systems:** PostgreSQL, MongoDB, Kafka, Neo4j, Milvus
+- **Data:** PostgreSQL, MongoDB, Kafka, Neo4j, Milvus
 - **Infra:** Docker, k8s
 
 <!-- ## News
