@@ -18,16 +18,17 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 
 
 ## Research Interests
-- **Agent Systems:** Multi-Agent Systems, Memory-based Agents
-- **Knowledge-grounded Agents:** Ontology-based Knowledge Graphs, GraphRAG-based Agents
+- **AI Agent Systems:** Multi-Agent Systems, Memory-augmented Agents
+- **Knowledge Graph–based Agents:** Ontology-based Knowledge Graphs, GraphRAG-based Agents
 <!-- - **Multi-modal:** Vision-Language model, Contrastive learning -->
 <!-- - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation -->
 
 
 ## Engineering Skill Sets
-- **AI Frameworks:** PyTorch, LangGraph
-- **Backend Development:** Python, FastAPI, Docker, k8s
-- **Data Systems:** SQL, Kafka, Neo4j
+- **AI/ML:** PyTorch, LangGraph
+- **Backend:** Python, FastAPI
+- **Data Systems:** PostgreSQL, MongoDB, Kafka, Neo4j
+- **Infra:** Docker, k8s
 
 <!-- ## News
 - **[July. 2025]** Our two studies have been accepted for oral presentation at MICCAI  2025.
