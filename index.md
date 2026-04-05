@@ -16,6 +16,17 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
   * Apr.2024 – Nov.2025, Seoul, Korea
   * Research on AI Agent system.
 
+## Educations
+
+- **Seoul National University**
+    * M.S in Bio-engineering (Advisor: Prof. C.W. Jeong)
+    - Healthcare AI (Vision-Language Model, Multi-modal AI)
+    * Mar.2022 - Feb.2024, Seoul, Korea
+
+- **Inha University**
+    * B.S in Software Engineering and Mechanical Engineering
+    * Mar.2015 - Feb.2022, Incheon, Korea
+    
 
 ## Research Interests
 - **AI Agent Systems:** Multi-Agent Systems, Memory-augmented Agents
@@ -38,16 +49,7 @@ I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practic
 
 {% include_relative _includes/projects.md %}
 
-## Educations
 
-- **Seoul National University**
-    * M.S in Bio-engineering (Advisor: Prof. C.W. Jeong)
-    - Healthcare AI (Vision-Language Model, Multi-modal AI)
-    * Mar.2022 - Feb.2024, Seoul, Korea
-
-- **Inha University**
-    * B.S in Software Engineering and Mechanical Engineering
-    * Mar.2015 - Feb.2022, Incheon, Korea
 
     
 ## Publications
