@@ -3,7 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated to solving cutting-edge challenges.
+<!-- I’m Juseong Jin, an AI Engineer, working with real-world data aimed at practical applications. I am eager to contribute my skills to a dynamic team dedicated to solving cutting-edge challenges. -->
+I’m Juseong Jin, an AI Engineer focused on building practical AI systems with real-world data. My experience spans domain-specific AI across healthcare, manufacturing, and enterprise applications, with a focus on multimodal learning and AI Agent systems. I am particularly interested in applying reliable AI to complex decision-making domains such as finance and healthcare.
+
 
 ## Work Experiences
 
