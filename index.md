@@ -11,7 +11,7 @@ I’m Juseong Jin, an AI Engineer focused on building practical AI systems with 
 
 - **Hanwha Systems/ICT**
   * Jan.2026 - Present, Seoul, Korea
-  * Develop AI Agent solution based on Graph RAG.
+  * Develop AI Agent Solution Development Based on Ontology-Driven Graph RAG.
 
 - **Seoul National University Hospital (SNUH)**
   <!-- * Hosted by Prof. Chang Wook Jeong -->
@@ -31,8 +31,9 @@ I’m Juseong Jin, an AI Engineer focused on building practical AI systems with 
     
 
 ## Research Interests
-- **AI Agent Systems:** Multi-Agent Systems, Memory-augmented Agents
-- **Knowledge Graph–based Agents:** Ontology-based Knowledge Graphs, GraphRAG-based Agents
+- **AI Agent Systems:** Multi-Agent Systems, Knowledge Graph(Ontology)-based Agent
+- **Risk Quantification:** Finance Market Risk Modeling, Patient Risk Prediction
+<!-- - **Knowledge Graph–based Agents:** Ontology-based Knowledge Graphs, GraphRAG-based Agents -->
 <!-- - **Multi-modal:** Vision-Language model, Contrastive learning -->
 <!-- - **Cost-effective Learning:** Self-superivsed learning, Domain adaptation -->
 
@@ -40,7 +41,7 @@ I’m Juseong Jin, an AI Engineer focused on building practical AI systems with 
 ## Engineering Skill Sets
 - **AI/ML:** PyTorch, LangGraph
 - **Backend:** Python, FastAPI
-- **Data:** PostgreSQL, MongoDB, Kafka, Neo4j, Milvus
+- **Data:** PostgreSQL, MongoDB, Kafka, Neo4j
 - **Infra:** Docker, k8s
 
 <!-- ## News
@@ -55,19 +56,19 @@ I’m Juseong Jin, an AI Engineer focused on building practical AI systems with 
 
     
 ## Publications
-1. **J. Jin**, C.W. Jeong. "*MedARC: A Reinforcement-Learned Multi-Agent Collaboration System for Expert-Level Medical Visual Reasoning*", MICCAI 2025 CLINICCAI **Oral Presentation** 
-2. J. Kim, A. Jeong, <strong>J. Jin</strong>, S. Lee, D.Y. Kim, S. Kim. "*Temporal Relationship Between Internet Search Volumes for Diarrhea Synonyms Using ChatGPT and Emergency Department Visits for Diarrhea-Related Symptoms in South Korea*", 2025, Journal of Medical Internet Research (JMIR)
-3. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
-4. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
-5. **J. Jin**, J.H. Han, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Prediction Model Using Clinical Information and Pathology Images in Renal Cell Carcinoma Patients*", 2024, Korean Society of Medical Informatics (KOSMI)
-6. **J. Jin**, E. Jeong, J. Cho, J.H. Park, Y.G. Kim. "*DAPO: Self-supervised Domain Adaptation for 6DoF Pose Estimation*," NeurIPS 2023 SSLTheoryPractice
-7. **J. Jin**, Y.J. Kim, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning Models and Index Predicting Postoperative Desaturation using Spirometry Signal*," 2023, Korean Society of Medical Informatics (KOSMI). ***Best Oral Presentation**
-8. Y. Shin, Y.J. Kim, **J. Jin**, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Machine Learning Model for Predicting Immediate Postoperative Desaturation Using Spirometyr Signal Data*," 2023, Scientific Reports
-9. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
+1. Y.J. Kim*, **J. Jin**, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning-Based Postoperative Desaturation Prediction Using Spirometry Image Data.*", 2026, Journal of Clinical Monitoring and Computing
+2. **J. Jin**, C.W. Jeong. "*MedARC: A Reinforcement-Learned Multi-Agent Collaboration System for Expert-Level Medical Visual Reasoning*", MICCAI 2025 CLINICCAI **Oral Presentation** 
+3. J. Kim, A. Jeong, <strong>J. Jin</strong>, S. Lee, D.Y. Kim, S. Kim. "*Temporal Relationship Between Internet Search Volumes for Diarrhea Synonyms Using ChatGPT and Emergency Department Visits for Diarrhea-Related Symptoms in South Korea*", 2025, Journal of Medical Internet Research (JMIR)
+4. <strong>J. Jin</strong>, C.W. Jeong. "*Surgical-LLaVA: Toward Surgical Video Understanding via Large Language and Vision Models*", NeurIPS 2024 AIM-FM
+5. **J. Jin**, E. Jeong, J. Cho, Y.G Kim, "*Self-supervised Domain Adaptation for 6DoF Pose Estimations*", 2024, IEEE ACCESS
+6. **J. Jin**, J.H. Han, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Development and Validation of Multi-modal Survival Prediction Model Using Clinical Information and Pathology Images in Renal Cell Carcinoma Patients*", 2024, Korean Society of Medical Informatics (KOSMI)
+7. **J. Jin**, E. Jeong, J. Cho, J.H. Park, Y.G. Kim. "*DAPO: Self-supervised Domain Adaptation for 6DoF Pose Estimation*," NeurIPS 2023 SSLTheoryPractice
+8. **J. Jin**, Y.J. Kim, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning Models and Index Predicting Postoperative Desaturation using Spirometry Signal*," 2023, Korean Society of Medical Informatics (KOSMI). ***Best Oral Presentation**
+9. Y. Shin, Y.J. Kim, **J. Jin**, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Machine Learning Model for Predicting Immediate Postoperative Desaturation Using Spirometyr Signal Data*," 2023, Scientific Reports
+10. **J. Jin**, J.H. Han, K.C. Moon, S.S. Byun, Y.G. Kim, C.W. Jeong. "*Development of Large-scale digital pathology images-based Deep Learning model for Fuhrman Nuclear Grading Aid in Clear cell Renal Cell Carcinoma*," 2023, Korean Urological Association (KUA)
 
 ## Under Review Papers
 1. **J. Jin**, J.H. Han*, K.C. Moon, S.S. Moon, Y.G Kim, C.W. Jeong "*Multimodal  AI via Cross Attention for Survival Prediction in Clear Cell Renal Cell Carcinoma*"
-2. Y.J. Kim*, **J. Jin**, Y. Shin, C.H. Koo, S.B. Lee, H.S. Kim and Y.G. Kim. "*Deep Learning-Based Postoperative Desaturation Prediction Using Spirometry Image Data.*"
 
 
 
