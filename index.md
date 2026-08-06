@@ -22,7 +22,7 @@ I’m Juseong Jin, an AI Engineer focused on building practical AI systems with 
 
 - **Seoul National University**
     * M.S in Bio-engineering (Advisor: Prof. C.W. Jeong)
-    - Healthcare AI (Vision-Language Model, Multi-modal AI)
+    - Healthcare AI (Multi-modal AI, Risk Quantification)
     * Mar.2022 - Feb.2024, Seoul, Korea
 
 - **Inha University**
